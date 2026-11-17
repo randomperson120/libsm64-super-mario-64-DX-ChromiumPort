@@ -69,3 +69,7 @@ Models and sounds from SM64 DS: The Models Resource / The Sounds Resource.
 "Mario64" font by sinnyboi (FontStruct, for non-commercial use).
 N. Sanity Island: Crash Twinsanity © Activision.
 Honorable mention: Claude AI & RandomPerson/MrSonic.
+
+
+> [!WARNING]
+> **NOT ALL ELEMENTS OF THIS PORT ARE INCLUDED IN THE SOURCE CODE.** Some things you will have to do manually or use the [official libsm64 repo](https://github.com/libsm64/libsm64).
